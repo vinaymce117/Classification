@@ -5,4 +5,4 @@ models/
 mlruns/
 *.pkl
 .env
-.ipynb_checkpoints/
+.ipynb_checkpoints/mlflow.db 
