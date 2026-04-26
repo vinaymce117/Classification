@@ -1,0 +1,9 @@
+classifier/
+__pycache__/
+*.pyc
+mlruns/
+.git/
+.ipynb_checkpoints/
+*.log
+*.pkl
+*.db
